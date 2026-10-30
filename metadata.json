@@ -1,0 +1,8 @@
+{
+  "name": "BK Construction - Home Improvements & Repairs",
+  "description": "Licensed California General Contractor (CA Lic. #1139587) serving Orange County. Luxury kitchens, baths, room additions, and custom decks. Call Ben at (714) 884-2905.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
